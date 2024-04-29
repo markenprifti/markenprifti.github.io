@@ -101,6 +101,7 @@ const srRight = ScrollReveal({
 })
 
 srRight.reveal('.skills-box', { delay: 100 })
+srRight.reveal('.softskills-box', { delay: 100 })
 srRight.reveal('.contact-simplon', { delay: 100 })
 
 
