@@ -13,7 +13,6 @@ function myReadMoreLess() {
   var dots = document.getElementById("dots");
   var moreText = document.getElementById("more");
   var btnText = document.getElementById("myBtn");
-  // var imgAvatar = document.getElementById("project-image");
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
@@ -28,7 +27,7 @@ function myReadMoreLess() {
 
 $('#myBtn').click(
   function () {
-    $('.project-image').toggle();
+    $('.uil-car-sideview').toggle();
   }
 );
 
