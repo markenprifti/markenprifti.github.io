@@ -51,7 +51,7 @@ function headerShadow() {
 
 /* ----- TYPING EFFECT ----- */
 var typingEffect = new Typed(".typedText", {
-  strings: ["IA", "Data", "Python"],
+  strings: ["Java", "Python"],
   loop: true,
   typeSpeed: 120,
   backSpeed: 80,

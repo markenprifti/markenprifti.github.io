@@ -171,7 +171,7 @@ nav{
 .featured-text-card span{
 	background: var(--third-color);
 	color: var(--color-white);
-	padding: 3px 8px;
+	padding: 3px 8px;`
 	font-size: 12px;
 	border-radius: 5px;
 }
@@ -189,11 +189,6 @@ nav{
 	font-size: 15px;
 	margin-bottom: 20px;
 	color: var(--text-color-second);
-}
-.rythme{
-	font-size: 12px;
-	color: var(--text-color-second);
-	font-style: italic;
 }
 .featured-text-btn{
 	display: flex;
